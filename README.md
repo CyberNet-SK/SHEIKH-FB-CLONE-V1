@@ -30,6 +30,6 @@ Copy and paste the following commands step-by-step into your Termux terminal:
 pkg update && pkg upgrade -y
 pkg install python git -y
 termux-setup-storage
-git clone [https://github.com/CyberNet-SK/SHEIKH-FB-CLONE-V1.git](https://github.com/CyberNet-SK/SHEIKH-FB-CLONE-V1.git)
+git clone https://github.com/CyberNet-SK/SHEIKH-FB-CLONE-V1.git
 cd SHEIKH-FB-CLONE-V1
 python fbclone.py
